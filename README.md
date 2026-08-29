@@ -121,6 +121,10 @@ This project demonstrates practical experience in:
 - Analytical storytelling
 - Translating raw data into actionable business questions
 
+## 📷 Dashboard Preview
+
+![Superstore Dashboard](dashboard.png)
+
 ## 👤 Author
 
 **Dina Gamal**
